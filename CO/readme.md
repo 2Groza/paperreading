@@ -13,3 +13,15 @@ code about combinatorial optimization using neural networks.
   提出了用Model based方法+ deterministic greedy rollout baseline的方法，比用value function更加高效
   
  
+ 
+ 
+代码实现
+- PointerNetwork
+  - ref1: https://github.com/keon/pointer-networks
+    - tsp_data: 一个二维TSP的数据生成代码，之后可以改进成高维的看一下结果
+    - 没跑通，Keras更新之后好多之前的东西不能用了。。。
+  - ref2: https://github.com/shirgur/PointerNet
+    - torch 的版本好麻烦。。
+
+
+
