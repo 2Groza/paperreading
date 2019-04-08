@@ -22,6 +22,18 @@ code about combinatorial optimization using neural networks.
     - 没跑通，Keras更新之后好多之前的东西不能用了。。。
   - ref2: https://github.com/shirgur/PointerNet
     - torch 的版本好麻烦。。
-
+  - ref3: https://github.com/LinyangHe/PyTorch-Pointer-Network-for-Number-Sorting
+    - torch 的简单版本，多好。。fdunb！
+- 
+  - ref1: https://github.com/higgsfield/np-hard-deep-reinforcement-learning
+    - higgsfield这兄弟太厉害了，从此是我的爱豆！
+    - 代码部署上了，下一步看明白之后做改动成task 相关的形式
+  - #### TODO:
+    - 看明白higgs的代码
+    - 写一个基本的torch MNIST的代码，测三个baseline
+      - 全集
+      - random 10 percent
+      - highest 10 percent according to score 
+    - 
 
 
